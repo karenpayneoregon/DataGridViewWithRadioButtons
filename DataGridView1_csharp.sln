@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGridViewFalseRadioButton", "DataGridViewFalseRadioButton\DataGridViewFalseRadioButton.csproj", "{424B9157-0C09-4FEB-828F-D4A7DEC23CCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGridViewMultiCheckBoxes", "DataGridViewMultiCheckBoxes\DataGridViewMultiCheckBoxes.csproj", "{18A4F177-0F1F-4B94-AF69-FCB912925279}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockedDataLibrary", "MockedDataLibrary\MockedDataLibrary.csproj", "{E41912FD-1BDD-4A12-BC86-AC1EB10D1267}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGridViewCheckBoxConventional", "DataGridViewCheckBoxConventional\DataGridViewCheckBoxConventional.csproj", "{B89E4DF6-F38C-46EF-B0F3-92D720BEAB9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGridViewCheckBoxHelpers", "DataGridViewCheckBoxHelpers\DataGridViewCheckBoxHelpers.csproj", "{FD7109B2-F0CE-4693-8A74-6432AAD96C51}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EB1AD025-F903-46D7-B7DA-058E8670B943}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{424B9157-0C09-4FEB-828F-D4A7DEC23CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{424B9157-0C09-4FEB-828F-D4A7DEC23CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{424B9157-0C09-4FEB-828F-D4A7DEC23CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{424B9157-0C09-4FEB-828F-D4A7DEC23CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18A4F177-0F1F-4B94-AF69-FCB912925279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18A4F177-0F1F-4B94-AF69-FCB912925279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18A4F177-0F1F-4B94-AF69-FCB912925279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18A4F177-0F1F-4B94-AF69-FCB912925279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E41912FD-1BDD-4A12-BC86-AC1EB10D1267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E41912FD-1BDD-4A12-BC86-AC1EB10D1267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E41912FD-1BDD-4A12-BC86-AC1EB10D1267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E41912FD-1BDD-4A12-BC86-AC1EB10D1267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B89E4DF6-F38C-46EF-B0F3-92D720BEAB9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B89E4DF6-F38C-46EF-B0F3-92D720BEAB9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B89E4DF6-F38C-46EF-B0F3-92D720BEAB9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B89E4DF6-F38C-46EF-B0F3-92D720BEAB9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD7109B2-F0CE-4693-8A74-6432AAD96C51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD7109B2-F0CE-4693-8A74-6432AAD96C51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD7109B2-F0CE-4693-8A74-6432AAD96C51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD7109B2-F0CE-4693-8A74-6432AAD96C51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B904CB10-3912-4A68-BF9D-01C18286916F}
+	EndGlobalSection
+EndGlobal
