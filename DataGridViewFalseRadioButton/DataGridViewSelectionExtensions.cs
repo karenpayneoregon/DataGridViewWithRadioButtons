@@ -1,4 +1,5 @@
-﻿using DataGridViewCheckBoxHelpers;
+﻿using System.Data;
+using DataGridViewCheckBoxHelpers;
 using System.Linq;
 using System.Windows.Forms;
 
@@ -20,6 +21,13 @@ namespace DataGridViewFalseRadioButton
                 }
             );
         }
+
+        public static DataTable DataTable(this DataGridView pDataGridView)
+        {
+
+            return (DataTable) pDataGridView.DataSource;
+        }
+
         /// <summary>
         /// Select option by row index, column name
         /// </summary>
